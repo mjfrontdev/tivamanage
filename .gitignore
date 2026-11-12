@@ -1,0 +1,26 @@
+﻿# Flutter
+.dart_tool/
+.packages
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+*.iml
+.idea/
+.vscode/
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+*.db
+*.sqlite3
+*.db-journal
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Env
+.env
+*.log
